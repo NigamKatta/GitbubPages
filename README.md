@@ -6,14 +6,11 @@
   <a href="https://drive.google.com/file/d/1uxqNuXn0lXInNvWN7QUKYXqaaGv7GzXX/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-f2f542?style=for-the-badge&logoColor=white" alt="Resume Badge">
   </a>
-  <a href="https://www.linkedin.com/in/gutlapalli-nikhil-chowdary/">
+  <a href="https://www.linkedin.com/in/nigamkatta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=bFMjC58AAAAJ&view_op=list_works">
+  <a href="https://scholar.google.com/citations?user=WAjjOOwAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-babbbf?style=for-the-badge&logoColor=white" alt="Google Scholar Badge">
-  </a>
-  <a href="https://www.nikhilchowdary.com">
-    <img src="https://img.shields.io/badge/Website-36d658?style=for-the-badge&logoColor=white" alt="Website Badge">
   </a>
 </p>
 
