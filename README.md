@@ -124,18 +124,17 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 ### Projects 🚀
 
-| [3D Detection - ROS](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) | [Stetro-Stair case cleaning Robot](https://github.com/NigamKatta/sTETRO/tree/main)| 
+| [Autonomous Search and Rescue Robot](https://github.com/NigamKatta/RescueRobot/tree/main) | [Stetro-Stair case cleaning Robot](https://github.com/NigamKatta/sTETRO/tree/main)| 
 | :-:| :-:|
-| <img src="https://www.nikhilchowdary.com/assets/img/publications/3D_detection.png" width="300" height="150" style="display:block"> | <img src="https://github.com/NigamKatta/sTETRO/blob/main/Assets/sTETRO%20-%20GIF.gif" width="300" height="150" style="display:block"> |
+| <img src="https://github.com/NigamKatta/RescueRobot/blob/main/Assets/ScorpionImage.jpeg" width="300" height="200" style="display:block"> | <img src="https://github.com/NigamKatta/sTETRO/blob/main/Assets/sTETRO%20-%20GIF.gif" width="300" height="200" style="display:block"> |
 
 | [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [Autonomous Disaster Response & <br> Reconnaissance using TurtleBot 3](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot)|
 | :-:| :-:| 
-| <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="150" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width="300" height="150" style="display:block"> |
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="200" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width="300" height="200" style="display:block"> |
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)| 
 | :-:| :-:|
-| <img src="https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width="300" height="150" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width="300" height="150" style="display:block"> |
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width="300" height="200" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width="300" height="200" style="display:block"> |
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutlapalliNikhil&layout=compact)
