@@ -40,7 +40,7 @@
 
 I'm currently pursuing my Master's degree in Robotics at Georgia Tech, starting from Fall 2023. My research focuses on using deep learning and computer vision techniques for enhancing the perception of autonomous vehicles.
 
-Prior to my Master's, I worked as a Software Engineer at Multicoreware Inc, contributing to autonomous and automotive projects. This experience enriched my skills in software development for autonomous systems.
+Before my Master's, I worked as a Software Engineer at Multicoreware Inc, contributing to autonomous and automotive projects. This experience enriched my skills in software development for autonomous systems.
 
 My journey in robotics began during my undergraduate studies at Amrita University, majoring in Electronics and Communications. I spent three years as a student researcher at Humanitarian Technology Labs (HuT Labs), working on diverse robotics projects, publishing research, and competing in challenges.
 
@@ -124,17 +124,17 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 ### Projects 🚀
 
-|  [3D Detection - ROS](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection)|  [Simulating and Mapping 3D Environments with 2D Lidar in ROS](https://github.com/GutlapalliNikhil/3D-Mapping-Using-2D-LiDAR-ROS)|  [Collaborative SLAM using Multi-Robot System](https://github.com/GutlapalliNikhil/Collaborative_SLAM)|
-| :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/3D_detection.png" width = 600 height = 300/>](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection)| [<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/ae375c98-2eb8-41be-aced-6ba06efa704c" width = 200 height = 200/>](https://github.com/GutlapalliNikhil/3D-Mapping-Using-2D-LiDAR-ROS)| [<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil.github.io/blob/main/assets/img/publications/collaborative_SLAM.gif" width = 250 height = 200/>](https://github.com/GutlapalliNikhil/Collaborative_SLAM)
+| [3D Detection - ROS](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) | [Stetro-Stair case cleaning Robot](https://github.com/NigamKatta/sTETRO/tree/main)| 
+| :-:| :-:|
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/3D_detection.png" width="300" height="150" style="display:block"> | <img src="https://github.com/NigamKatta/sTETRO/blob/main/Assets/sTETRO%20-%20GIF.gif" width="300" height="150" style="display:block"> |
 
-|  [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)|  [Autonomous Disaster Response & Reconnaissance using TurtleBot 3](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot)|  [CHETAK 🐎 - The Home Service Robot](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)|
-| :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/21.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width = 450 height = 200/>](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/blob/main/chetak.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)
+| [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [Autonomous Disaster Response & <br> Reconnaissance using TurtleBot 3](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot)|
+| :-:| :-:| 
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="150" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width="300" height="150" style="display:block"> |
 
-| [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)| [Attitude Estimation](https://github.com/GutlapalliNikhil/attitude-estimation-matlab-iphone)| 
-| :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 300 height = 200/>](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/778ff927-5bb5-4e02-9803-b876ac766130" width = 275 height = 200/>](https://github.com/GutlapalliNikhil/attitude-estimation-matlab-iphone)
+| [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)| 
+| :-:| :-:|
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width="300" height="150" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width="300" height="150" style="display:block"> |
 
 ---
 
