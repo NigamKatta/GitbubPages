@@ -3,14 +3,17 @@
   <a href="mailto:nigamkatta@gmail.com,nkatta9@gatech.edu">
     <img src="https://img.shields.io/badge/Mail-f25030?style=for-the-badge&logoColor=white" alt="Mail Badge">
   </a>
+    <a href="https://scholar.google.com/citations?user=WAjjOOwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-babbbf?style=for-the-badge&logoColor=white" alt="Google Scholar Badge">
+  </a>
   <a href="https://drive.google.com/file/d/1uxqNuXn0lXInNvWN7QUKYXqaaGv7GzXX/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-f2f542?style=for-the-badge&logoColor=white" alt="Resume Badge">
   </a>
   <a href="https://www.linkedin.com/in/nigamkatta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://scholar.google.com/citations?user=WAjjOOwAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-babbbf?style=for-the-badge&logoColor=white" alt="Google Scholar Badge">
+    <a href="https://scholar.google.com/citations?user=WAjjOOwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Portfolio-babbbf?style=for-the-badge&logoColor=green" alt="Portfolio Badge">
   </a>
 </p>
 
