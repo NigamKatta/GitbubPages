@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/nigamkatta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
-    <a href="https://scholar.google.com/citations?user=WAjjOOwAAAAJ&hl=en">
+    <a href="https://nigamkatta.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-babbbf?style=for-the-badge&logoColor=green" alt="Portfolio Badge">
   </a>
 </p>
