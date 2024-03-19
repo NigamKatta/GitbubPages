@@ -131,7 +131,7 @@ I'm excited to further explore the field of robotics through academic endeavors,
 | :-:| :-:|
 | <img src="https://github.com/NigamKatta/RescueRobot/blob/main/Assets/ScorpionImage.jpeg" width="300" height="200" style="display:block"> | <img src="https://github.com/NigamKatta/sTETRO/blob/main/Assets/sTETRO%20-%20GIF.gif" width="300" height="200" style="display:block"> |
 
-| [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [Autonomous Disaster Response & <br> Reconnaissance using TurtleBot 3](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot)|
+| [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [State Estimation Using KF](https://github.com/NigamKatta/State_Estimation)|
 | :-:| :-:| 
 | <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="200" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width="300" height="200" style="display:block"> |
 
