@@ -133,7 +133,7 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 | [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [State Estimation Using KF](https://github.com/NigamKatta/State_Estimation)|
 | :-:| :-:| 
-| <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="200" style="display:block"> | <img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width="300" height="200" style="display:block"> |
+| <img src="https://www.nikhilchowdary.com/assets/img/publications/21.png" width="300" height="200" style="display:block"> | <img src="https://github.com/NigamKatta/State_Estimation/blob/main/KF/MotionModels/sampleOutofEKFCHV.png" width="300" height="200" style="display:block"> |
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)| 
 | :-:| :-:|
